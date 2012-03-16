@@ -124,7 +124,7 @@ style "murrine-default"
         roundness       = 0 # Overall roundness of the theme.
 #       progressbarstyle    = 1 # 0 = nothing, 1 = striped, 2 = cells
         animation       = TRUE  # FALSE disables progressbar animations.
-                gradients       = TRUE # enables gradients.
+        #gradients       = FALSE # enables gradients.
         reliefstyle     = 2 # shadows around widgets.
         sliderstyle     = 0 # 0 = nothing added, 1 = handles.
         menustyle       = 0 # removes stripes from menus.
